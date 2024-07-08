@@ -20,8 +20,8 @@ This repository contains a comprehensive example of how to perform text classifi
 To get started with this project, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/text-classification-python.git
-cd text-classification-python
+git clone https://github.com/davidesidoti/text_classification
+cd text-classification
 pip install -r requirements.txt
 ```
 
@@ -37,7 +37,7 @@ Follow these steps to run the text classification:
 Run the example script to see the process in action:
 
 ```bash
-python example_script.py
+python main.py
 ```
 
 ## Features
