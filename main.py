@@ -4,8 +4,8 @@ import re
 import shutil
 import string
 import tensorflow as tf
-from tensorflow.keras import layers
-from tensorflow.keras import losses
+from tensorflow.keras import layers # type: ignore
+from tensorflow.keras import losses # type: ignore
 
 print(tf.__version__)
 
